@@ -1,0 +1,7 @@
+- Nucleotides are building blocks of all nucleic acids. Nucleotides have distinctive structure composed of three components covalently bound together.
+- A nitrogen-containing "bases", either a pyrimidine (one ring) or purine (two rings).
+- A 5-carbon sugar - ribose and deoxyribose.
+- A phosphate group.
+- The combination of a base and sugar is called nucleoside. Nucleotides also exist in activated form containing two or three phosphate,
+  called nucleotides diphosphate or triphosphate.
+- If the sugar in a nucleotide is deoxyribose, the nucleotides is called Deoxynucleotides; if the sugar is ribose, the term ribonucleotides is Bruised.
